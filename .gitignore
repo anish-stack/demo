@@ -1,0 +1,21 @@
+# Node.js
+node_modules/
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# Dependency directories
+npm-debug.log*
+.pnpm
+.pnpm-debug.log
+
+# Editor directories and files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
